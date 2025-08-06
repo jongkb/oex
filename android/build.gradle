@@ -27,4 +27,6 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace 'im.khad.oex'
 }
